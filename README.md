@@ -2,8 +2,9 @@
 
 ## VS Code Plugins
 
-1. ESLint
-2. Prettier
+1. EditorConfig
+2. ESLint
+3. Prettier
 
 ## VS Code Settings
 
